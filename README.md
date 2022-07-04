@@ -35,4 +35,10 @@
     <td>LLD questions and solutions</td>
     <td>https://tinyurl.com/lldwithsolution</td>
   </tr>
+   <tr>
+    <td>SQL</td>
+    <td>SQL tutorial</td>
+    <td>https://tinyurl.com/sqltutorials</td>
+  </tr>
+  
 </table> 
